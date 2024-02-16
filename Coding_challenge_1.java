@@ -34,7 +34,10 @@ public class Coding_challenge_1 {
 		double Index = 0.0588 * L - 0.296 * S - 15.8;
 		System.out.println("Grade: "+ Math.round(Index));
 
-
+//		Sample output
+//		Text: Congratulations! Today is your day. You're off to Great Places! You're off and away!
+//		Grade: 3
+ 
 		
 		
 		
